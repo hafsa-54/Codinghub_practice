@@ -1,0 +1,51 @@
+# Coding Practice Summary: September 2026
+
+**Files changed:** 10  |  **Concepts practiced:** Arrays, Hash maps / hash tables, Queues, Searching, Strings
+
+## Things I practiced this month
+
+- `DSA kunal/cons.java` (Java)
+- `DSA kunal/firstprogram.java` (Java)
+- `Data structures/Hashmaps/hashcode.java` (Java)
+- `Data structures/Hashmaps/linearprobing.java` (Java)
+- `Data structures/Queue/ArrayQueue.java` (Java)
+- `Python/pip.py` (Python)
+- `Python/sales_data.csv` (Other)
+- `arraypra/stringBsearch.java` (Java)
+- `arraypra/swaP.java` (Java)
+- `arraypra/swapping_methods.java` (Java)
+
+## Java
+
+Concept spotlights this month: Arrays, Hash maps / hash tables, Queues, Searching, Strings
+
+Practice set (pick 2–3 and answer below):
+
+1. Implement a generic binary search that works on any Comparable array and returns the first index of the target.
+2. Explain the difference between == and .equals() when comparing Strings. When would each be correct?
+3. What happens to the recursion stack when Merge Sort is called on an array of size 1? Why is that the base case?
+
+**My answers:**
+
+1. 
+2. 
+3. 
+
+## Python
+
+Concept spotlights this month: Arrays, Hash maps / hash tables, Queues, Searching, Strings
+
+Practice set (pick 2–3 and answer below):
+
+1. What does df.info() tell you about a DataFrame, and why is dtype='category' useful for the Category column?
+2. Given sales_data.csv, compute total Sales per Region with pandas and explain what parse_dates=['Date'] changes.
+3. What is the difference between .loc and .iloc? Give one example where mixing them silently loses data.
+
+**My answers:**
+
+1. 
+2. 
+3. 
+
+---
+_Generated automatically from the CodingHub repo for this month. Answers are saved in this file._
